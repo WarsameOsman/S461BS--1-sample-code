@@ -98,6 +98,7 @@ void loop() {
   digitalWrite(pinF, LOW);   
   digitalWrite(pinG,  HIGH);     
   delay(1);               // wait for a second
-
 }
+
+// This code print bot1
 
